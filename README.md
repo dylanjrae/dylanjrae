@@ -10,7 +10,7 @@ I am currently working at [Covalent](https://www.covalenthq.com/) building scala
 - a concurrent asynchronous filter scraper for indexing terabytes of NFT data powering our [NFT endpoints](https://www.covalenthq.com/docs/api/nft/get-nfts-for-address/#core-rendering/)
 - a framework for supporting custom cube.js and SQL based endpoints
 
-In the past I worked under [Dr. Alfred Lehar](https://www.linkedin.com/in/alfred-lehar-434b2021/) at the University of Calgary where I built a custom Bitcoin ETL indexer in Julia for storing the entire Bitcoin chain dataset in a PostgreSQL databaseand then enriching the data with third-party data sources.
+In the past I worked under [Dr. Alfred Lehar](https://www.linkedin.com/in/alfred-lehar-434b2021/) at the University of Calgary where I built a custom Bitcoin ETL indexer in Julia for storing the entire Bitcoin chain dataset in a PostgreSQL databasecand then enriching the on-chain data with third-party data sources.
 
 I have bachelors degrees in electrical engineering and finance from the University of Calgary. During my time there I was apart of the Schulich Formula Racing Team where my team:
 - won 1st place at our capstone project fair for our custom [power distribution module](https://dylanrae.ca/PDM-details.html)
