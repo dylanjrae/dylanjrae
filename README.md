@@ -1,5 +1,6 @@
 ### Hi there 👋, I'm Dylan
 ![](https://komarev.com/ghpvc/?username=dylanjrae)
+
 I am currently working at [Covalent](https://www.covalenthq.com/) building scalable blockchain data infrastructure that supports [100+](https://www.covalenthq.com/docs/networks/) blockchains. Our API powers thousands of popular applications and professional services. Here are some of the cool features I have shipped at Covalent:
 - led engineering effort for integrating our product with our industry leading reseller partners [ChainStack](https://chainstack.com/covalent-on-chainstack-unified-api-web3-data/), [NodeReal](https://www.covalenthq.com/blog/covalent-nodereal-announcement/), and [Blast](https://www.theblock.co/post/236547/blast-joins-forces-with-covalent-to-empower-developers-in-the-web3-ecosystem-with-premium-api-access)
 - an address activity [endpoint](https://www.covalenthq.com/docs/unified-api/changelog/#new-premium-wallet-activity-endpoint) 
