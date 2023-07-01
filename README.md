@@ -3,10 +3,8 @@
 
 I am currently working at [Covalent](https://www.covalenthq.com/) building scalable blockchain data infrastructure that supports [100+](https://www.covalenthq.com/docs/networks/) blockchains. Our API powers thousands of popular applications and professional services. Here are some of the cool features I have shipped at Covalent:
 - led the engineering effort to offer our API with industry leading IaaS providers [ChainStack](https://chainstack.com/covalent-on-chainstack-unified-api-web3-data/), [NodeReal](https://www.covalenthq.com/blog/covalent-nodereal-announcement/), and [Blast](https://www.theblock.co/post/236547/blast-joins-forces-with-covalent-to-empower-developers-in-the-web3-ecosystem-with-premium-api-access)
-- a cross-chain wallet activity [endpoint](https://www.covalenthq.com/docs/unified-api/changelog/#new-premium-wallet-activity-endpoint) 
-- a transaction summary [endpoint](https://www.covalenthq.com/docs/unified-api/changelog/#new-transactions-endpoints)
-- a transactions + decoded log events by block [endpoint](https://www.covalenthq.com/docs/api/transactions/get-all-transactions-in-a-block/)
-- adding support for [Unstoppable Domains](https://www.covalenthq.com/docs/unified-api/changelog/#new-unstoppable-domains-address-resolution) and Lens Protocol across our API
+- a cross-chain wallet activity [endpoint](https://www.covalenthq.com/docs/unified-api/changelog/#new-premium-wallet-activity-endpoint), a transaction summary [endpoint](https://www.covalenthq.com/docs/unified-api/changelog/#new-transactions-endpoints), a transactions + decoded log events by block [endpoint](https://www.covalenthq.com/docs/api/transactions/get-all-transactions-in-a-block/), and rebuilt our events [endpoints](https://www.covalenthq.com/docs/api/base/get-logs/)
+- added support for [Unstoppable Domains](https://www.covalenthq.com/docs/unified-api/changelog/#new-unstoppable-domains-address-resolution) and Lens Protocol across our API
 - a concurrent asynchronous file scraper for indexing terabytes of NFT data powering our [NFT endpoints](https://www.covalenthq.com/docs/api/nft/get-nfts-for-address/#core-rendering/)
 - a framework for supporting custom data cube and SQL based endpoints
 
