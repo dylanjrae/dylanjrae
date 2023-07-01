@@ -6,7 +6,7 @@ I am currently working at [Covalent](https://www.covalenthq.com/) building scala
 - a cross-chain wallet activity [endpoint](https://www.covalenthq.com/docs/unified-api/changelog/#new-premium-wallet-activity-endpoint), a transaction summary [endpoint](https://www.covalenthq.com/docs/unified-api/changelog/#new-transactions-endpoints), a transactions + decoded log events by block [endpoint](https://www.covalenthq.com/docs/api/transactions/get-all-transactions-in-a-block/), and rebuilt our events [endpoints](https://www.covalenthq.com/docs/api/base/get-logs/)
 - added support for [Unstoppable Domains](https://www.covalenthq.com/docs/unified-api/changelog/#new-unstoppable-domains-address-resolution) and Lens Protocol across our API
 - a concurrent asynchronous file scraper for indexing terabytes of NFT data powering our [NFT endpoints](https://www.covalenthq.com/docs/api/nft/get-nfts-for-address/#core-rendering/)
-- a framework for supporting custom data cube and SQL based endpoints
+- a framework for supporting custom data cube or SQL based endpoints
 
 In the past I worked under [Dr. Alfred Lehar](https://www.linkedin.com/in/alfred-lehar-434b2021/) at the University of Calgary where I built a custom Bitcoin ETL indexer in Julia for storing the entire Bitcoin chain dataset in a PostgreSQL database and then enriching the data with third-party data sources.
 
