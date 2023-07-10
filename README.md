@@ -20,4 +20,4 @@ Some of my past hobby projects include:
 
 Currently working on:
 - a new tool for greatly simplifying the process of buying used cars
-- an easily shareable cross-chain blockchain wallet stat card
+- an easily shareable cross-chain blockchain [wallet stat card](https://github.com/dylanjrae/wallet-share)
