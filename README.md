@@ -19,5 +19,5 @@ Some of my past hobby projects include:
 - training an SSD object detection model for experimental use as a [random number generator](https://dylanrae.ca/ML-details.html)
 
 Currently working on:
-- a new tool for greatly simplifying the process of buying used cars
+- an ai powered secondhand marketplace
 - an easily shareable cross-chain blockchain [wallet stat card](https://github.com/dylanjrae/wallet-share)
